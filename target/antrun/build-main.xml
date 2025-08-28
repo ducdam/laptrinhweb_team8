@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="maven-antrun-" default="main">
+  <target name="main">
+    <copy file="/Users/damquangduc/Downloads/team8shop/team8shop/target/team8shop-1.0-SNAPSHOT.war" todir="/opt/homebrew/Cellar/tomcat/11.0.10/libexec/webapps/" overwrite="true" />
+  </target>
+</project>
