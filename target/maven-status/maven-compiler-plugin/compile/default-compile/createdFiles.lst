@@ -1,1 +1,5 @@
+com/example/model/User.class
+com/example/model/UserDAO.class
+com/example/controller/UserServlet.class
+com/example/model/DBConnection.class
 com/example/model/CartItem.class

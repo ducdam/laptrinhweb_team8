@@ -30,6 +30,7 @@
             <li><a href="products.jsp">Sản phẩm</a></li>
             <li><a href="cart.jsp">Giỏ Hàng</a></li>
             <li><a href="about.jsp">Giới Thiệu</a></li>
+            <li><a href="login.jsp">Đăng Nhập</a></li>
           </ul>
         </nav>
       </div>
